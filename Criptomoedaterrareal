@@ -1,12 +1,12 @@
-echo "# Criptomoedaterrareal-" >> README.md
-autocreate criptomoeda: terrareal 
-git ini
-comand: formatcreat 
-git add README.mdatocreate 
-impot: contrato inteligente 
-git commit -m "first commit" 
-rum: código fonte 
-git branch -M main 
+echo: Criptomoedaterrareal>> README.md:autocreate 
+autocreate criptomoeda:terrareal 
+git ini:autocreate 
+comand:formatcreat 
+git add README.mdatocreate:criptomoeda 
+impot:contrato inteligente 
+git commit -m first commit:autocreate 
+rum:código fonte 
+git branch -M main:autocreate 
 autocreate código fonte 
 git remote add origin https://github.com/Jorgemucisalumfilho/Criptomoedaterrareal-.git
 
