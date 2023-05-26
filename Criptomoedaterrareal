@@ -1,7 +1,7 @@
 echo "# Criptomoedaterrareal-" >> README.md
-a
+autocreate criptomoeda: terrareal 
 git ini
-
+comand: formatcreat 
 git add README.mdatocreate 
 
 git commit -m "first commit" 
