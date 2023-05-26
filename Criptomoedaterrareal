@@ -1,6 +1,6 @@
-echo "# Criptomoedaterrareal-" >> README.md 
-
-git init 
+echo "# Criptomoedaterrareal-" >> README.md
+a
+git ini
 
 git add README.mdatocreate 
 
@@ -10,4 +10,5 @@ git branch -M main
 
 git remote add origin https://github.com/Jorgemucisalumfilho/Criptomoedaterrareal-.git
 
- git push -u origem principal
+git push -u origem principal
+criação automáticacr
