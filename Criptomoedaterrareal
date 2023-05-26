@@ -2,7 +2,7 @@ echo "# Criptomoedaterrareal-" >> README.md
 
 git init 
 
-git add README.md 
+git add README.mdatocreate 
 
 git commit -m "first commit" 
 
