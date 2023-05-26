@@ -1,3 +1,4 @@
+autocreate criptomoeda 
 echo: Criptomoedaterrareal>> README.md:autocreate 
 autocreate criptomoeda:terrareal 
 git ini:autocreate 
