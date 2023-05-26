@@ -7,7 +7,7 @@ impot: contrato inteligente
 git commit -m "first commit" 
 rum: código fonte 
 git branch -M main 
-
+autocreate código fonte 
 git remote add origin https://github.com/Jorgemucisalumfilho/Criptomoedaterrareal-.git
 
 git push -u origem principal
