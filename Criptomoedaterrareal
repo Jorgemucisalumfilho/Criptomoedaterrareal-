@@ -5,7 +5,7 @@ comand: formatcreat
 git add README.mdatocreate 
 impot: contrato inteligente 
 git commit -m "first commit" 
-
+rum: código fonte 
 git branch -M main 
 
 git remote add origin https://github.com/Jorgemucisalumfilho/Criptomoedaterrareal-.git
