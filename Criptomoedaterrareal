@@ -3,7 +3,7 @@ autocreate criptomoeda: terrareal
 git ini
 comand: formatcreat 
 git add README.mdatocreate 
-
+impot: contrato inteligente 
 git commit -m "first commit" 
 
 git branch -M main 
