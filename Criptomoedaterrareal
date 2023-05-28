@@ -1,13 +1,13 @@
 
 # Hello world javascript criptomoeda action: criptomoeda 
 
-This action prints "Hello World" or "Hello" + the name of a person to greet to the log.
+This action prints "Hello World" or "Hello" + the criptomoeda a person to greet to the log.
 
 ## Inputs
 
 ### `who-to-greet`criptomoeda
 
-**Required** The name of the person to greet. Default `"World"`.
+**Required** The criptomoeda terrareal the person to greet. Default `"World"`.
 
 ## Outputs
 
