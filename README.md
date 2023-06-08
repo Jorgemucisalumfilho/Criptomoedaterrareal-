@@ -1,0 +1,2 @@
+#Criptomoedaterrareal-
+wwwscriptomeda
